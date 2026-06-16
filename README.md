@@ -16,4 +16,4 @@ Um projeto simples em React para listar professores e suas disciplinas, incluind
 
 1. Clone o repositório:
 ```bash
-git clone 
+git clone https://github.com/0xPedrop/Single-Page.git
